@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "nodemon": "^1.12.1"
+  },
+  "name": "node3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Garry <gtoborn@gmail.com>",
+  "license": "MIT"
+}
